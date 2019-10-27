@@ -2,6 +2,7 @@
     <string name="app_name">JetpackDemo</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="viewmodel">ViewModel</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="viewmodel" translatable="false">ViewModel</string>
+    <string name="save" >save</string>
 </resources>
